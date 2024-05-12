@@ -1,4 +1,4 @@
-# Sunny Shaurya
+# Sunny Saurya
 
 ``` javascript
 console.log("Welcome to my Profile");
