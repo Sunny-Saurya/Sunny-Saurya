@@ -1,6 +1,19 @@
+👋 Hi there! I'm Sunny Kumar, a passionate coder and frontend web developer. I specialize in:
 
-<h1 align="center">Hi 👋, I'm Sunny Saurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+    Frontend Development: HTML5, CSS3, JavaScript, React
+    Backend Development: Learning the MERN stack
+    Languages: C++, Python, JavaScript
+    Tools & Libraries: GSAP, Tailwind CSS, Vite
+
+🌱 Currently, I'm on a journey to master the MERN stack and improve my skills in Data Structures and Algorithms.
+
+🔭 I'm participating in the #100DaysOfCode challenge, sharing my daily progress on MERN stack development and C++ DSA.
+
+📚 I'm a Computer Science and Engineering (CSE) major, aiming to become a proficient software engineer.
+
+✨ When I'm not coding, I create content focused on self-development and tech, sharing my knowledge and experiences with others.
+
+🚀 Check out my projects and repositories to see what I've been working on!
 
 ``` javascript
 console.log("Welcome to my Profile");
