@@ -3,7 +3,7 @@
     Frontend Development: HTML5, CSS3, JavaScript, React
     Backend Development: Learning the MERN stack
     Languages: C++, Python, JavaScript
-    Tools & Libraries: GSAP, Tailwind CSS, Vite
+    Tools & Libraries: GSAP, Tailwind CSS, Vite.
 
 🌱 Currently, I'm on a journey to master the MERN stack and improve my skills in Data Structures and Algorithms.
 
