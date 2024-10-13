@@ -15,7 +15,6 @@
 
 🚀 Check out my projects and repositories to see what I've been working on!
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sunny-Saurya/Sunny-Saurya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
