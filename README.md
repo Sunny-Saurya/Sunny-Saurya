@@ -50,10 +50,6 @@ I create blogs and videos on:
 - Completed 150+ **LeetCode** problems with 160-day consistency.
 - Successfully hosted my portfolio website.
 
-## 📊 GitHub Stats
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
-
 ## 📫 Let's Connect!
 - **LinkedIn**: (https://www.linkedin.com/in/sunny-kumar23/)
 - **Email**: sunnysaurya9955@gmail.com
