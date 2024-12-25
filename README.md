@@ -1,17 +1,65 @@
-👋 Hi there! I'm Sunny Kumar, a passionate coder and frontend web developer. I specialize in:
+# Hi there, I'm Sunny! 👋
 
-    Frontend Development: HTML5, CSS3, JavaScript, React
-    Backend Development: Learning the MERN stack
-    Languages: C++, Python, JavaScript
-    Tools & Libraries: GSAP, Tailwind CSS, Vite.
+Welcome to my GitHub profile! I'm an aspiring **Software Engineer**, a **Mern Developer**, and a passionate **Content Creator** focused on **self-development** and tech innovations. 🚀
 
-🌱 Currently, I'm on a journey to master the MERN stack and improve my skills in Data Structures and Algorithms.
+## 🌟 About Me
+- 🔭 Currently participating in the **#100DaysOfCode** challenge, focusing on **C++ (DSA)** and the **MERN stack**.
+- 🌱 Learning **TypeScript** and exploring backend development.
+- 💡 Open source contributor with a recent badge from **GitHub**.
+- 🎯 Aiming to build scalable and impactful web applications.
 
-🔭 I'm participating in the #100DaysOfCode challenge, sharing my daily progress on MERN stack development and C++ DSA.
+## 🛠️ Skills & Technologies
+### Languages:
+- **C++**, **C**, **Python**, **JavaScript**, **HTML5**, **CSS**, **JAVA**
 
-📚 I'm a Computer Science and Engineering (CSE) major, aiming to become a proficient software engineer.
+### Frameworks & Libraries:
+- **React**, **Tailwind CSS**, **GSAP**
 
-✨ When I'm not coding, I create content focused on self-development and tech, sharing my knowledge and experiences with others.
+### Tools:
+- **Git/GitHub**, **Notion**, **Excel**, **Vite**
+
+### Specialties:
+- **Mern Developer**
+- **Web Animations**
+- **Data Structures & Algorithms**
+
+## 💼 Projects
+Here are a few highlights of my work:
+
+### **30 Days 30 JS Projects** 🛠️
+A series of 30 mini-projects that showcase my JavaScript and DOM manipulation skills. Highlights include:
+- Bookmark Your Website
+- Image Search Engine using APIs
+- Circular Progress Bar
+
+### **React Projects** ⚛️
+- **Weather App**: Displays real-time weather data using APIs.
+- **Login/Signup Forms**: Styled with **Tailwind CSS**.
+
+### **Portfolio Website** 🌐
+Visit my personal portfolio: [Sunny's Portfolio](#) (Add your portfolio link here)
+
+## 📚 Content Creation
+I create blogs and videos on:
+- Self-development
+- Productivity
+- Tech tips
+
+## 🌟 Achievements
+- **85 WPM Typing Speed** with 99% accuracy.
+- Completed 150+ **LeetCode** problems with 160-day consistency.
+- Successfully hosted my portfolio website.
+
+## 📊 GitHub Stats
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+
+## 📫 Let's Connect!
+- **LinkedIn**: (https://www.linkedin.com/in/sunny-kumar23/)
+- **Email**: sunnysaurya9955@gmail.com
+
+### 💡 "Keep Learning, Keep Building, and Keep Inspiring!"
+
 
 🚀 Check out my projects and repositories to see what I've been working on!
 
