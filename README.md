@@ -36,9 +36,6 @@ A series of 30 mini-projects that showcase my JavaScript and DOM manipulation sk
 - **Weather App**: Displays real-time weather data using APIs.
 - **Login/Signup Forms**: Styled with **Tailwind CSS**.
 
-### **Portfolio Website** 🌐
-Visit my personal portfolio: [Sunny's Portfolio](#) (Add your portfolio link here)
-
 ## 📚 Content Creation
 I create blogs and videos on:
 - Self-development
