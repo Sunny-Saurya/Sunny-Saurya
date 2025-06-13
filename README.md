@@ -43,8 +43,8 @@ I create blogs and videos on:
 - Tech tips
 
 ## 🌟 Achievements
-- **85 WPM Typing Speed** with 99% accuracy.
-- Completed 150+ **LeetCode** problems with 160-day consistency.
+- **100 WPM Typing Speed** with 100% accuracy.
+- Completed 250+ **LeetCode** problems with 260-day consistency.
 - Successfully hosted my portfolio website.
 
 ## 📫 Let's Connect!
