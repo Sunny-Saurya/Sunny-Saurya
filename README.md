@@ -1,4 +1,4 @@
-# Hi there, I'm Sunny Kumar 👋
+# Hi there, I'm Sunny 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="280" />
