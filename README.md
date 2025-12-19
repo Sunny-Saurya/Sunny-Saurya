@@ -1,51 +1,86 @@
-# Hi there, I'm Sunny! 👋
+# Hi there, I'm Sunny Kumar 👋
 
-Welcome to my GitHub profile! I'm an aspiring **Software Engineer**, a **Mern Developer**, and a passionate **Content Creator** focused on **self-development** and tech innovations. 🚀
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="280" />
+</p>
 
-## 🌟 About Me
-- 🔭 Currently participating in the **#100DaysOfCode** challenge, focusing on **C++ (DSA)** and the **MERN stack**.
-- 🌱 Learning **TypeScript** and exploring backend development.
-- 💡 Open source contributor with a recent badge from **GitHub**.
-- 🎯 Aiming to build scalable and impactful web applications.
+🚀 **Software Engineer | MERN Stack Developer | AI Automation Enthusiast**  
+I build scalable full-stack applications, integrate AI into real-world products, and continuously sharpen my problem-solving skills through DSA and competitive programming.
 
-## 🛠️ Skills & Technologies
-### Languages:
-- **C++**, **C**, **Python**, **JavaScript**, **HTML5**, **CSS**, **JAVA**
+---
 
-### Frameworks & Libraries:
-- **React**, **Tailwind CSS**, **GSAP**
+## 👨‍💻 About Me
+- 🎓 **B.Tech in Computer Science & Engineering** @ Lovely Professional University (CGPA: 7.40)
+- 🤖 Experience building **AI-powered web applications**
+- ⚙️ MERN Stack developer focused on **performance & clean architecture**
+- 🧩 Solved **700+ DSA problems** across LeetCode, CodeChef, Codeforces, GFG & Coding Ninjas
+- 🌱 Currently learning **TypeScript, Next.js & backend scalability**
 
-### Tools:
-- **Git/GitHub**, **Notion**, **Excel**, **Vite**
+---
 
-### Specialties:
-- **Mern Developer**
-- **Web Animations**
-- **Data Structures & Algorithms**
+## 🧠 Core Skills
 
-## 💼 Projects
-Here are a few highlights of my work:
+### 💻 Programming Languages
+- **C, C++, Java, Python, JavaScript, TypeScript, SQL, PHP**
+- **HTML5, CSS3**
 
-### **30 Days 30 JS Projects** 🛠️
-A series of 30 mini-projects that showcase my JavaScript and DOM manipulation skills. Highlights include:
-- Bookmark Your Website
-- Image Search Engine using APIs
-- Circular Progress Bar
+### ⚛️ Frameworks & Libraries
+- **React.js**, **Next.js**
+- **Node.js**, **Express.js**
 
-### **React Projects** ⚛️
-- **Weather App**: Displays real-time weather data using APIs.
-- **Login/Signup Forms**: Styled with **Tailwind CSS**.
+### 🗄️ Databases & Platforms
+- **MongoDB**, **MySQL**
+- **Linux**, **Git & GitHub**
 
-## 📚 Content Creation
-I create blogs and videos on:
-- Self-development
-- Productivity
-- Tech tips
+### 🤖 AI & Automation
+- **Gemini AI / LLM APIs**
+- **Prompt Engineering**
+- **AI workflow optimization & automation**
 
-## 🌟 Achievements
-- **100 WPM Typing Speed** with 100% accuracy.
-- Completed 250+ **LeetCode** problems with 260-day consistency.
-- Successfully hosted my portfolio website.
+### 🎨 UI / UX & Tools
+- **Tailwind CSS**, **Figma**
+- **Notion**, **Obsidian**, **Excel**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Upskillme AI – AI-Powered Interview Prep Platform  
+📅 *May 2025 – June 2025*  
+- Built a **full-stack AI platform** generating personalized interview questions based on user role & experience
+- Implemented **JWT-based authentication** with session persistence
+- Optimized AI prompt-handling logic, **reducing response time by 20%**
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Gemini AI, JWT  
+🔗 GitHub | Live
+
+---
+
+### 📝 Snappy Notes – MERN Notes Application  
+📅 *April 2024*  
+- Developed a secure notes app with **JWT authentication**
+- Optimized webhook handling & real-time data fetching, **reducing execution time by 34%**
+- Improved backend efficiency, **lowering server response time by 20%** under heavy load
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS  
+🔗 GitHub | Live
+
+---
+
+## 🎨 Design & Training
+**Design Thinking & Figma** – Lovely Professional University  
+📅 *May 2025 – June 2025*  
+- Designed end-to-end UI/UX for **PeerSkill**, a peer-to-peer skill exchange platform
+- Built modular design systems, personas, journey maps & interactive Figma prototypes
+
+---
+
+## 🏆 Achievements
+- 🌍 **CodeChef Global Rank 1388** (Div 4) with +34 rating jump (Starters 212)
+- 🏅 Earned **100 Days & 200 Days GitHub Contribution Badges (2025)**
+- 🧩 Solved **700+ DSA problems** across competitive programming platforms
+
+---
 
 ## 📫 Let's Connect!
 - **LinkedIn**: (https://www.linkedin.com/in/sunny-kumar23/)
