@@ -1,5 +1,6 @@
-<p align="left">Hello!!</p>
 
+
+<h1 align="center">Hi 👋, I'm Sunny !!</h1>
 ###
 
 <div align="center">
@@ -7,8 +8,6 @@
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNjNDFxNHNvMW12YnhldXd0ZG1kbDdqMGYwbGJhNXhtYWtiZmh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bs0GXj3ew6xxK/giphy.gif" />
 
 </div>
-
-<h1 align="center">Hi 👋, I'm Sunny !!</h1>
 <h3 align="center">Software Engineer and Full-Stack Developer from India, currently learning DevOps and building scalable, AI-powered applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny-saurya&label=Profile%20views&color=0e75b6&style=flat" alt="sunny-saurya" /> </p>
