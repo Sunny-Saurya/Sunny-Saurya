@@ -1,64 +1,72 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="1086" height="496" viewBox="0 0 1086 496" role="img" aria-label="ASCII GitHub profile card for Sunny-Saurya">
   <rect x="0.5" y="0.5" width="1085" height="495" rx="8" fill="#0d1117" stroke="#30363d"/>
-  <text x="28" y="53.00000000000001" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                           _:. . .:</text>
-  <text x="28" y="62.60000000000001" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  y;jxxxxjjj____;xg                      :-::s[)iy!:r!;:</text>
-  <text x="28" y="72.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  cj::::'    _jj::|:                   .j:| :::::':::!;j_</text>
-  <text x="28" y="81.80000000000001" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  Lj::  :!:  !!j:j|                .:::: :`: : : :  ::::j~..:</text>
-  <text x="28" y="91.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  Cjjj: __:::  !::q|           .  :`::  : j:;..::: : :: :::!::|.</text>
-  <text x="28" y="101" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  Lj:jjj:j|)`  ::j||          :::    : _':'::'-::::: :  :   : j;:</text>
-  <text x="28" y="110.60000000000001" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  y::':. ::u|  :::||       __|:.::::  :  : `::    :'!:::  .: :::j_.</text>
-  <text x="28" y="120.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  Lj :_i::ji|    :||     .|vs!!'.!_    :  : :    :   :  _:_::  ::ju/</text>
-  <text x="28" y="129.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  Lj   :'jxj: _  j||       c:: !:.'l:  :    ::.:: :   :: :  : ._:[jc</text>
-  <text x="28" y="139.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  L      |x:j[}  :||      ::j!j:jj::j.        :: '         :jjw:j_/|`</text>
-  <text x="28" y="149" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  ;              :i|     '`:`.j{j    '`: :  :  : ::.:.:.__jxxy[:i!s|</text>
-  <text x="28" y="158.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  C__________..._j?`      :  /'`:.:__uuuuu--u----g@@oouuoxxu;:`:!i:|</text>
-  <text x="28" y="168.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                          : !  :|jjjoo@o@@@@@@@@@@@@@@oooooop;:' |::</text>
-  <text x="28" y="177.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                          :     |xxxooooo@o@@@@@@@@ooooooooox|:  : `</text>
-  <text x="28" y="187.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               ::jxxooooooooo@oooo@o@oooooooxj: : ::</text>
-  <text x="28" y="197" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               ::jxooogoo@@@@@@@@@@@@@@@@oooou;_: ||</text>
-  <text x="28" y="206.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                           ::  :jxxoo@@@@@@@@@@@@@@@@@@@@@@@ooo|..r;</text>
-  <text x="28" y="216.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                             : jxxo@@@@@@@@@@@@@@@@@QQUUQQUU$xjc:|g|</text>
-  <text x="28" y="225.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                             : xj+-!!::::'/S$$ooUn*!   :`::::!!||\o|</text>
-  <text x="28" y="235.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                            :;:xj: : _.  .   |ggg:.._g__gu__;::ii@|</text>
-  <text x="28" y="245" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                             1|xxuu_;&amp;gt;VoeIjx|i@@@googuxuxo@\:::ji\`</text>
-  <text x="28" y="254.60000000000002" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                             !:jxo@ooggxooooox@@oo@@ooooQo|:::|c`</text>
-  <text x="28" y="264.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                              :|joaQoQoooogoogo@oooo@@@@oo|:: j|     :</text>
-  <text x="28" y="273.79999999999995" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               |:jjugo@@@@oqoo@@@o@po@@@@@|::|x|     `</text>
-  <text x="28" y="283.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               |:::xo@@@@oo?-Q@@omVVo@o@@o|j.jx|</text>
-  <text x="28" y="293" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                ij:jxooo@@@_. !~:.\\@@@@oowjjxx|</text>
-  <text x="28" y="302.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                !jj::io@o@oouu-_\o@o@@@oooxixxj`</text>
-  <text x="28" y="312.20000000000005" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 :!jj:jaooooo$UQUUXA$*V$oxxx)j`</text>
-  <text x="28" y="321.79999999999995" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                  ::::jjj________gyugooxxjjj::</text>
-  <text x="28" y="331.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                    : ::|xxj+/wUUev|xwaxj:)'::</text>
-  <text x="28" y="341" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 ::   : ::j::______uxxxjj:::::</text>
-  <text x="28" y="350.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 :::    ::1xoo@@@@@o$w}:  :j:u</text>
-  <text x="28" y="360.20000000000005" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 :j:j:    ::!yooeoo{!'  ::jjjjg/</text>
-  <text x="28" y="369.79999999999995" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 ;:jjjj:  :  :!:::::  ::jjjjjxoo:</text>
-  <text x="28" y="379.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 !;jjjjj::           :|jjjjjxxgo ____g_____________________,</text>
-  <text x="28" y="389" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                  /xxjjjj::         :jjjjjxxoxo|||:::::_ic:::::::::j::::::||</text>
-  <text x="28" y="398.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                   /1xxujjj::   : ::jjjjxxooop\ |::: _.jx::::::::|nc:. :::|p</text>
-  <text x="28" y="408.20000000000005" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                     /1xxxxjj:::::jjjjjxxxo}\   |:::_:!!j::::::::!|jjj_;::|p</text>
-  <text x="28" y="417.79999999999995" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                       -~jxjjjjjjjjjjxxx)^      ||:ioy;a/:::::::::::::xxg_|p</text>
-  <text x="28" y="427.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                           -|jjjj!---'          |Cjj!j[wg}:::::::=:;oxjxxj||</text>
-  <text x="28" y="437" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                                                |j::!:[|p|:::::::::ioj)jj!||</text>
-  <text x="28" y="446.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">'.                                                              |:j: ::zs|:::::::::xr: !::||</text>
-  <text x="501.59999999999997" y="43" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Sunny-Saurya@github </tspan><tspan fill="#3d444d">────────────────────────────────────</tspan></text>
-  <text x="501.59999999999997" y="63" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> 3 years, 3 months, 19 days</tspan></text>
-  <text x="501.59999999999997" y="83" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">............................</tspan><tspan fill="#c9d1d9"> Phagwara, Punjab</tspan></text>
-  <text x="501.59999999999997" y="103" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Company: </tspan><tspan fill="#484f58">......................</tspan><tspan fill="#c9d1d9"> http://urbaneeth.store/</tspan></text>
-  <text x="501.59999999999997" y="123" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">....</tspan><tspan fill="#c9d1d9"> JavaScript 35%, TypeScript 23%, C++ 17%</tspan></text>
-  <text x="501.59999999999997" y="163" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">────────────────────────────────────────────────</tspan></text>
-  <text x="501.59999999999997" y="183" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#c9d1d9"> https://sunnysfolio.vercel.app/</tspan></text>
-  <text x="501.59999999999997" y="203" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Twitter: </tspan><tspan fill="#484f58">................................</tspan><tspan fill="#c9d1d9"> @SunyPraaati1</tspan></text>
-  <text x="501.59999999999997" y="223" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">.......................</tspan><tspan fill="#c9d1d9"> github.com/Sunny-Saurya</tspan></text>
-  <text x="501.59999999999997" y="263" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">───────────────────────────────────────────</tspan></text>
-  <text x="501.59999999999997" y="283" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 69</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 44</tspan></text>
-  <text x="501.59999999999997" y="303" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Forks: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 6</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">..........</tspan><tspan fill="#79c0ff"> 21</tspan></text>
-  <text x="501.59999999999997" y="323" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#79c0ff"> 2,442</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Contributed: </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#79c0ff"> 7</tspan></text>
-  <text x="501.59999999999997" y="343" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. PRs: </tspan><tspan fill="#484f58">................</tspan><tspan fill="#79c0ff"> 34</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Issues: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 25</tspan></text>
-  <text x="501.59999999999997" y="363" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Top repo: </tspan><tspan fill="#484f58">.........................</tspan><tspan fill="#c9d1d9"> VenturesBoard (2 ★)</tspan></text>
-  <text x="501.59999999999997" y="403" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Last 12 Months </tspan><tspan fill="#3d444d">─────────────────────────────────────────</tspan></text>
-  <text x="501.59999999999997" y="423" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Contributions: </tspan><tspan fill="#484f58">...</tspan><tspan fill="#79c0ff"> 1,434</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Reviews: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="501.59999999999997" y="443" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Private: </tspan><tspan fill="#484f58">..........................................</tspan><tspan fill="#79c0ff"> 242</tspan></text>
-  <text x="501.59999999999997" y="463" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#39d353">  ▃▁▁  ▆▆▆▅▄▅▆▂▅▆▅▅▃▄▃▅▆▅▅▂▄▄ ▅▃▆▅▄ ▅▇▇▇█▆▅▆▆▅▄▄▄▆ ▃▄▁</tspan></text>
+
+  <g fill="#c9d1d9" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="8" xml:space="preserve">
+    <text x="28" y="53">                                           \_:. . .:\</text>
+    <text x="28" y="63">  y;jxxxxjjj\_\_\_\_;xg                      :-::s[)iy!:r!;:</text>
+    <text x="28" y="73">  cj::::'    \_jj::|:                   .j:| :::::':::!;j\_</text>
+    <text x="28" y="83">  Lj::  :!:  !!j:j|                .:::: :` : : :  ::::j~..:</text>
+    <text x="28" y="93">  Cjjj: \_\_:::  !::q|           .  `::  : j:;..::: : :: :::!::|.</text>
+    <text x="28" y="103">  Lj:jjj:j|)`  ::j||          :::    : _':'::'-::::: :  :   : j;:</text>
+    <text x="28" y="113">  y::':. ::u|  :::||       __|:.::::  :  : `::    :'!:::  .: :::j_.</text>
+    <text x="28" y="123">  Lj :_i::ji|    :||     .|vs!!'.!_    :  : :    :   :  _:_::  ::ju/</text>
+    <text x="28" y="133">  Lj   :'jxj: _  j||       c:: !:.'l:  :    ::.:: :   :: :  : ._: [jc</text>
+    <text x="28" y="143">  L      |x:j[}  :||      ::j!j:jj::j.        :: '         :jjw:j_/|`</text>
+    <text x="28" y="153">  ;              :i|     '`:.j{j    '`: :  :  : ::.:.:.__jxxy[:i!s|</text>
+    <text x="28" y="163">  C_________..._j?`      :  /'`:. :__uuuuu--u----g@@oouuoxxu;:`:!i:|</text>
+    <text x="28" y="173">                          : !  :|jjjoo@o@@@@@@@@@@@@@@oooooop;:' |::</text>
+    <text x="28" y="183">                          :     |xxxooooo@o@@@@@@@@ooooooooox|:  : `</text>
+    <text x="28" y="193">                               ::jxxooooooooo@oooo@o@oooooooxj: : ::</text>
+    <text x="28" y="203">                               ::jxooogoo@@@@@@@@@@@@@@@@oooou;_: ||</text>
+    <text x="28" y="213">                           ::  :jxxoo@@@@@@@@@@@@@@@@@@@@@@@ooo|..r;</text>
+    <text x="28" y="223">                             : jxxo@@@@@@@@@@@@@@@@@QQUUQQUU$xjc:|g|</text>
+    <text x="28" y="233">                             : xj+-!!::::'/S$$ooUn*!   :`::::!!||o|</text>
+    <text x="28" y="243">                            :;:xj: : _.  .   |ggg:.._g__gu__;::ii@|</text>
+    <text x="28" y="253">                             1|xxuu_;&gt;VoeIjx|i@@@googuxuxo@\\:::ji\\</text>
+    <text x="28" y="263">                             !:jxo@ooggxooooox@@oo@@ooooQo|:::|c`</text>
+    <text x="28" y="273">                              :|joaQoQoooogoogo@oooo@@@@oo|:: j|     :</text>
+    <text x="28" y="283">                               |:jjugo@@@@oqoo@@@o@po@@@@@|::|x|     `</text>
+    <text x="28" y="293">                               |:::xo@@@@oo?-Q@@omVVo@o@@o|j.jx|</text>
+    <text x="28" y="303">                                ij:jxooo@@@_. !~:.\\\\@@@@oowjjxx|</text>
+    <text x="28" y="313">                                !jj::io@o@oouu-_\o@o@@@oooxixxj`</text>
+    <text x="28" y="323">                                 :!jj:jaooooo$UQUUXA$*V$oxxx)j`</text>
+    <text x="28" y="333">                                  ::::jjj________gyugooxxjjj::</text>
+    <text x="28" y="343">                                    : ::|xxj+/wUUev|xwaxj:)'::</text>
+    <text x="28" y="353">                                 ::   : ::j::_______uxxxjj:::::</text>
+    <text x="28" y="363">                                 :::    ::1xoo@@@@@o$w}:  :j:u</text>
+    <text x="28" y="373">                                 :j:j:    ::!yooeoo{!'  ::jjjjg/</text>
+    <text x="28" y="383">                                 ;:jjjj:  :  :!:::::  ::jjjjjxoo:</text>
+    <text x="28" y="393">                                 !;jjjjj::           :|jjjjjxxgo ____________,</text>
+    <text x="28" y="403">                                  /xxjjjj::         :jjjjjxxoxo|||:::::_ic:::::::::j::::::||</text>
+    <text x="28" y="413">                                   /1xxujjj::   : ::jjjjxxooop\ |::: _.jx::::::::|nc:. :::|p</text>
+    <text x="28" y="423">                                     /1xxxxjj:::::jjjjjxxxo}   |:::_ :!!j::::::::!|jjj_;::|p</text>
+    <text x="28" y="433">                                       -~jxjjjjjjjjjjxxx)^      ||:ioy;a/:::::::::::::xxg_|p</text>
+    <text x="28" y="443">                                           -|jjjj!---'          |Cjj!j[wg}:::::::=:;oxjxxj||</text>
+    <text x="28" y="453">                                                                |j::!:[|p|:::::::::ioj)jj!||</text>
+    <text x="28" y="463">                                                                |:j: ::zs|:::::::::xr: !::||</text>
+  </g>
+
+  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="16">
+    <text x="501.6" y="43" fill="#58a6ff">─ Sunny-Saurya@github ─────────────────────────</text>
+    <text x="501.6" y="63"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#c9d1d9">CSE Student &amp; Developer</tspan></text>
+    <text x="501.6" y="83"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#c9d1d9">Punjab, India</tspan></text>
+    <text x="501.6" y="103"><tspan fill="#ffa657">. Company: </tspan><tspan fill="#c9d1d9">Krazy8</tspan></text>
+    <text x="501.6" y="123"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#c9d1d9">JavaScript, TypeScript, C++</tspan></text>
+
+    <text x="501.6" y="163" fill="#58a6ff">─ Contact ─────────────────────────────────────</text>
+    <text x="501.6" y="183"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#c9d1d9">zzzsunny.space</tspan></text>
+    <text x="501.6" y="203"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#c9d1d9">sunny-saurya</tspan></text>
+    <text x="501.6" y="223"><tspan fill="#ffa657">. Focus: </tspan><tspan fill="#c9d1d9">Full-Stack Development &amp; AI</tspan></text>
+
+    <text x="501.6" y="263" fill="#58a6ff">─ GitHub Stats ─────────────────────────────────</text>
+    <text x="501.6" y="283"><tspan fill="#ffa657">. Profile: </tspan><tspan fill="#79c0ff">Sunny-Saurya</tspan></text>
+    <text x="501.6" y="303"><tspan fill="#ffa657">. Building: </tspan><tspan fill="#c9d1d9">Web Apps &amp; SaaS Products</tspan></text>
+    <text x="501.6" y="323"><tspan fill="#ffa657">. Learning: </tspan><tspan fill="#c9d1d9">Backend Engineering</tspan></text>
+    <text x="501.6" y="363"><tspan fill="#ffa657">. Current project: </tspan><tspan fill="#c9d1d9">Krazy8</tspan></text>
+
+    <text x="501.6" y="403" fill="#58a6ff">─ Developer Mode ───────────────────────────────</text>
+    <text x="501.6" y="423" fill="#79c0ff">  Code. Build. Ship. Repeat.</text>
+    <text x="501.6" y="463" fill="#39d353">  ▃▁▁  ▆▆▆▅▄▅▆▂▅▆▅▅▃▄▃▅▆▅▅▂▄▄ ▅▃▆▅▄ ▅▇▇▇█▆▅▆▆▅▄▄▄▆ ▃▄▁</text>
+  </g>
 </svg>
