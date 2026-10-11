@@ -1,3 +1,5 @@
-<p align="center">
-  <img src="./gh-ascii.svg" width="100%" alt="Sunny-Saurya ASCII Profile Card" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="sunny-saurya's GitHub profile" src="dark_mode.svg" />
+</picture>
